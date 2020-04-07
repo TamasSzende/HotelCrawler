@@ -1,0 +1,313 @@
+[
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "",
+    "numberOfGuests": 1,
+    "startDate": "2019. 05. 14.",
+    "endDate": "2019. 05. 18.",
+    "roomIdList": [
+      3
+    ]
+  },
+  {
+    "guestAccountName": "kristen.cox@example.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 3,
+    "startDate": "2020. 06. 24.",
+    "endDate": "2020. 06. 25.",
+    "roomIdList": [
+      8
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "Van vegán menü?",
+    "numberOfGuests": 1,
+    "startDate": "2019. 11. 22.",
+    "endDate": "2019. 11. 29.",
+    "roomIdList": [
+      3,
+      7
+    ]
+  },
+  {
+    "guestAccountName": "alberte.nielsen@example.com",
+    "remark": "11-kor érkezünk.",
+    "numberOfGuests": 1,
+    "startDate": "2019. 05. 11.",
+    "endDate": "2019. 05. 14.",
+    "roomIdList": [
+      3
+    ]
+  },
+  {
+    "guestAccountName": "john.harris@example.com",
+    "remark": "13:00 körül érkezünk",
+    "numberOfGuests": 2,
+    "startDate": "2019. 11. 20.",
+    "endDate": "2019. 11. 21.",
+    "roomIdList": [
+      2
+    ]
+  },
+  {
+    "guestAccountName": "arthur.fernandez@example.com",
+    "remark": "Csak este érünk oda",
+    "numberOfGuests": 2,
+    "startDate": "2019. 09. 19.",
+    "endDate": "2019. 09. 28.",
+    "roomIdList": [
+      4
+    ]
+  },
+  {
+    "guestAccountName": "alberte.nielsen@example.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 5,
+    "startDate": "2020. 05. 12.",
+    "endDate": "2020. 05. 20.",
+    "roomIdList": [
+      8,
+      1
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "Csak este érünk oda",
+    "numberOfGuests": 2,
+    "startDate": "2020. 03. 08.",
+    "endDate": "2020. 03. 09.",
+    "roomIdList": [
+      6
+    ]
+  },
+  {
+    "guestAccountName": "alberte.nielsen@example.com",
+    "remark": "11-kor érkezünk.",
+    "numberOfGuests": 4,
+    "startDate": "2020. 06. 19.",
+    "endDate": "2020. 06. 24.",
+    "roomIdList": [
+      6,
+      8
+    ]
+  },
+  {
+    "guestAccountName": "kristen.cox@example.com",
+    "remark": "Van vegán menü?",
+    "numberOfGuests": 5,
+    "startDate": "2019. 10. 15.",
+    "endDate": "2019. 10. 20.",
+    "roomIdList": [
+      6,
+      5
+    ]
+  },
+  {
+    "guestAccountName": "hotel.team.five.u@gmail.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 6,
+    "startDate": "2019. 03. 15.",
+    "endDate": "2019. 03. 23.",
+    "roomIdList": [
+      2,
+      5,
+      3
+    ]
+  },
+  {
+    "guestAccountName": "john.harris@example.com",
+    "remark": "13:00 körül érkezünk",
+    "numberOfGuests": 3,
+    "startDate": "2020. 07. 23.",
+    "endDate": "2020. 07. 27.",
+    "roomIdList": [
+      5
+    ]
+  },
+  {
+    "guestAccountName": "myrtha.charles@example.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 2,
+    "startDate": "2019. 12. 17.",
+    "endDate": "2019. 12. 26.",
+    "roomIdList": [
+      1
+    ]
+  },
+  {
+    "guestAccountName": "lilly.harris@example.com",
+    "remark": "",
+    "numberOfGuests": 1,
+    "startDate": "2020. 06. 02.",
+    "endDate": "2020. 06. 04.",
+    "roomIdList": [
+      3
+    ]
+  },
+  {
+    "guestAccountName": "brad.kuhn@example.com",
+    "remark": "Van babaágy?",
+    "numberOfGuests": 2,
+    "startDate": "2019. 05. 16.",
+    "endDate": "2019. 05. 19.",
+    "roomIdList": [
+      1
+    ]
+  },
+  {
+    "guestAccountName": "brad.kuhn@example.com",
+    "remark": "Csak este érünk oda",
+    "numberOfGuests": 2,
+    "startDate": "2020. 03. 25.",
+    "endDate": "2020. 04. 02.",
+    "roomIdList": [
+      4
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "",
+    "numberOfGuests": 1,
+    "startDate": "2019. 06. 13.",
+    "endDate": "2019. 06. 20.",
+    "roomIdList": [
+      3
+    ]
+  },
+  {
+    "guestAccountName": "arthur.fernandez@example.com",
+    "remark": "",
+    "numberOfGuests": 1,
+    "startDate": "2019. 08. 04.",
+    "endDate": "2019. 08. 08.",
+    "roomIdList": [
+      3
+    ]
+  },
+  {
+    "guestAccountName": "lilly.harris@example.com",
+    "remark": "",
+    "numberOfGuests": 2,
+    "startDate": "2020. 07. 25.",
+    "endDate": "2020. 07. 27.",
+    "roomIdList": [
+      1
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "13:00 körül érkezünk",
+    "numberOfGuests": 2,
+    "startDate": "2019. 08. 26.",
+    "endDate": "2019. 08. 28.",
+    "roomIdList": [
+      1
+    ]
+  },
+  {
+    "guestAccountName": "alberte.nielsen@example.com",
+    "remark": "13:00 körül érkezünk",
+    "numberOfGuests": 3,
+    "startDate": "2020. 07. 10.",
+    "endDate": "2020. 07. 12.",
+    "roomIdList": [
+      1,
+      6
+    ]
+  },
+  {
+    "guestAccountName": "hotel.team.five.u@gmail.com",
+    "remark": "Mennyire van messze a parkoló?",
+    "numberOfGuests": 1,
+    "startDate": "2020. 02. 21.",
+    "endDate": "2020. 02. 23.",
+    "roomIdList": [
+      7
+    ]
+  },
+  {
+    "guestAccountName": "hotel.team.five.u@gmail.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 2,
+    "startDate": "2020. 02. 14.",
+    "endDate": "2020. 02. 20.",
+    "roomIdList": [
+      2
+    ]
+  },
+  {
+    "guestAccountName": "lilly.harris@example.com",
+    "remark": "11-kor érkezünk.",
+    "numberOfGuests": 1,
+    "startDate": "2019. 09. 26.",
+    "endDate": "2019. 10. 05.",
+    "roomIdList": [
+      7
+    ]
+  },
+  {
+    "guestAccountName": "kristen.cox@example.com",
+    "remark": "",
+    "numberOfGuests": 3,
+    "startDate": "2020. 01. 05.",
+    "endDate": "2020. 01. 09.",
+    "roomIdList": [
+      7,
+      6
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "Mennyire van messze a parkoló?",
+    "numberOfGuests": 2,
+    "startDate": "2019. 07. 07.",
+    "endDate": "2019. 07. 15.",
+    "roomIdList": [
+      6
+    ]
+  },
+  {
+    "guestAccountName": "brad.kuhn@example.com",
+    "remark": "13:00 körül érkezünk",
+    "numberOfGuests": 3,
+    "startDate": "2020. 04. 02.",
+    "endDate": "2020. 04. 05.",
+    "roomIdList": [
+      7,
+      1
+    ]
+  },
+  {
+    "guestAccountName": "alberte.nielsen@example.com",
+    "remark": "Csak este érünk oda",
+    "numberOfGuests": 2,
+    "startDate": "2019. 07. 26.",
+    "endDate": "2019. 07. 29.",
+    "roomIdList": [
+      7,
+      6
+    ]
+  },
+  {
+    "guestAccountName": "john.harris@example.com",
+    "remark": "Legyen sok sör",
+    "numberOfGuests": 2,
+    "startDate": "2019. 10. 26.",
+    "endDate": "2019. 10. 31.",
+    "roomIdList": [
+      4
+    ]
+  },
+  {
+    "guestAccountName": "christos.stotz@example.com",
+    "remark": "",
+    "numberOfGuests": 5,
+    "startDate": "2020. 03. 26.",
+    "endDate": "2020. 03. 31.",
+    "roomIdList": [
+      1,
+      8
+    ]
+  }
+]
